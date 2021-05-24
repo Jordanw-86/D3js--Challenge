@@ -2,7 +2,7 @@
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
-## The challenge
+## The task at hand
 
 Welcome to the newsroom! I've just accepted a data visualization position for a major metro paper. I am tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
 
@@ -18,11 +18,8 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 3. Inside your local **git repository**
 
-4. 
+4. Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)—we've already included this plugin in your assignment directory.
 
-5. Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)—we've already included this plugin in your assignment directory.
-
-## My Task
 
 ### 1. Core Assignment: D3 Dabbler (BASIC STATIC CHART)
 
