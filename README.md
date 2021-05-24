@@ -26,7 +26,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates:
 
 ### 1. Core Assignment: D3 Dabbler (BASIC STATIC CHART)
 
-![4-scatter](output/1BasicChart2Variables.png)
+![4-scatter](Images/scatterchart.png)
 
 **CHALLENGE COMPLETED!!**
 
