@@ -23,7 +23,7 @@ var svg = d3
   .attr("width", svgWidth)
   .attr("height", svgHeight);
 
-// group charts. g group Container
+// group charts.  using g group Container
 var chartGroup = svg.append("g")
   .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
@@ -67,7 +67,7 @@ d3.csv("assets/data/data.csv").then(function(myData) {
 
 
    
-    // function for circles
+    // function for making the circles
     chartGroup.selectAll("circle")
         .data(myData)
         .enter()
@@ -79,7 +79,7 @@ d3.csv("assets/data/data.csv").then(function(myData) {
         .attr("opacity", ".6");
 
 
-    // add State abbrev to circles
+    // add State abbreveations to cirlces
     chartGroup.selectAll("text.text-circles")
         .data(myData)
         .enter()
